@@ -1,0 +1,1 @@
+Invoke-PS2EXE .\GLN_Editor.ps1 .\GLN_Editor.exe -noConsole -iconFile .\GLN_Editor.ico -requireAdmin

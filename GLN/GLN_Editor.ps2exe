@@ -1,0 +1,12 @@
+{
+    "Skrypt":  "C:\\python\\insert-narzedzia\\GLN\\GLN_Editor.ps1",
+    "Ikona":  "C:\\python\\insert-narzedzia\\GLN\\GLN_Editor.ico",
+    "Wyjscie":  "C:\\python\\insert-narzedzia\\GLN\\GLN_Editor.exe",
+    "Producent":  "Dominik ¯abiñski",
+    "Opis":  "SubiektGT GLN Edytor",
+    "Produkt":  "GLN_Editor",
+    "Wersja":  "1.0",
+    "BezKonsoli":  false,
+    "Admin":  false,
+    "X64":  false
+}
