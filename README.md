@@ -97,3 +97,9 @@ insert-narzedzia/
 - Przed użyciem na produkcji zaleca się backup bazy danych.
 - Narzędzia operują bezpośrednio na tabelach SQL — używaj świadomie.
 - GLN Editor wymaga InsERT GT w wersji z kolumną `adr_GLN` w tabeli `adr__Ewid` — program informuje jeśli kolumna nie istnieje.
+
+## Wsparcie
+
+Jeśli narzędzia okazały się przydatne, możesz postawić kawę:
+
+[![Postaw kawę](https://buycoffee.to/btn/buycoffee-white.png)](https://buycoffee.to/zaba44)
