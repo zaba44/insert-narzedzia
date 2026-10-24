@@ -100,6 +100,6 @@ insert-narzedzia/
 
 ## Wsparcie
 
-Jeśli narzędzia okazały się przydatne, możesz postawić kawę:
+Jeśli narzędzia okazały się przydatne, możesz dobrowolnie wesprzeć autora:
 
-[![Postaw kawę](https://buycoffee.to/btn/buycoffee-white.png)](https://buycoffee.to/zaba44)
+[![Wesprzyj autora](https://img.shields.io/badge/%E2%99%A5%20Wesprzyj%20autora-cuplink.to%2Fzaba44-2ea44f)](https://cuplink.to/zaba44)
